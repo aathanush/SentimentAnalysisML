@@ -1,3 +1,3 @@
 # SentimentAnalysisML
 
-''' sentiment analysis using Machine Learning for Audio files and text files'''
+*sentiment analysis using Machine Learning for Audio files and text files*
